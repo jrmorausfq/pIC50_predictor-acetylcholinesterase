@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "pIC50 Predictor"
+type: software
+authors:
+  - family-names: "[FAMILY NAME]"
+    given-names: "[GIVEN NAME]"
+    orcid: "https://orcid.org/[0000-0000-0000-0000]"
+abstract: "Python pipeline for pIC50 prediction from SMILES using Open Babel/Pybel, ToMoCoMD-CARDD descriptors, AMBIT applicability-domain analysis, and a pre-trained Weka model."
+keywords:
+  - pIC50
+  - QSAR
+  - chemoinformatics
+  - ToMoCoMD
+  - AMBIT
+  - Weka
+  - Python
+license: MIT
+version: 1.0.0
+date-released: 2026-06-19
+repository-code: "https://github.com/[USERNAME]/[REPOSITORY]"
+url: "https://github.com/[USERNAME]/[REPOSITORY]"
+# doi: "10.5281/zenodo.XXXXXXX"
