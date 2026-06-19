@@ -183,11 +183,7 @@ The consensus criterion considers a molecule within the applicability domain whe
 
 ### 1. `to_predict.smiles`
 
-File containing the molecules to be predicted in SMILES format. Example:
-
-```text
-CCO ethanol
-CC(=O)O acetic_acid
+File containing the molecules to be predicted in SMILES format. 
 ```
 
 ### 2. `model_training.csv`
@@ -282,7 +278,7 @@ To ensure reproducibility, report the following in the associated article or sup
 If you use this code, please cite the archived Zenodo version. After creating the DOI, update this section:
 
 ```text
-Author(s). pIC50 Predictor. Version 1.0.0. Zenodo. https://doi.org/XX.XXXX/zenodo.XXXXXXX
+Author(s). pIC50 Predictor. Version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.20766300
 ```
 
 You may also use GitHub's **Cite this repository** button if the `CITATION.cff` file is present.
