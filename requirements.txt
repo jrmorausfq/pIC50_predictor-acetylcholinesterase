@@ -1,0 +1,9 @@
+# Core Python packages
+numpy
+pandas
+
+# Weka bridge for Python 3
+python-weka-wrapper3
+
+# Open Babel / Pybel is recommended via conda:
+# conda install -c conda-forge openbabel

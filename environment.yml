@@ -1,0 +1,12 @@
+name: pic50-predictor
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - openbabel
+  - openjdk=11
+  - pip
+  - pip:
+      - python-weka-wrapper3
