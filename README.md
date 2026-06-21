@@ -275,10 +275,9 @@ To ensure reproducibility, report the following in the associated article or sup
 
 ## Citation
 
-If you use this code, please cite the archived Zenodo version. After creating the DOI, update this section:
-
+Zenodo:
 ```text
-Author(s). pIC50 Predictor. Version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.20766300
+José R. Mora. pIC50 Predictor. Version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.20766300
 ```
 
 You may also use GitHub's **Cite this repository** button if the `CITATION.cff` file is present.
