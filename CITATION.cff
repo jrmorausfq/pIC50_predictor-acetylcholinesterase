@@ -19,3 +19,5 @@ version: 1.0.1
 date-released: 2026-06-19
 repository-code: "https://github.com/jrmorausfq/pIC50_predictor-acetylcholinesterase"
 url: "https://github.com/jrmorausfq/pIC50_predictor-acetylcholinesterase"
+Zenodo:
+José R. Mora. pIC50 Predictor. Version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.20766300
